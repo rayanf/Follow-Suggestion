@@ -401,7 +401,7 @@ int main()
             }
         }
     }
-    
+    int n;
 
     vector<string> names;
 	g.printSCCs();
