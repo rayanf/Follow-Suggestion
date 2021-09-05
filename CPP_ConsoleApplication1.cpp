@@ -1,4 +1,4 @@
-//rayan-forsaat 
+//rayan-forsaat
 #include <stdio.h>
 #include <iostream>
 #include <string.h>
@@ -401,7 +401,7 @@ int main()
             }
         }
     }
-    int n;
+    
 
     vector<string> names;
 	g.printSCCs();
