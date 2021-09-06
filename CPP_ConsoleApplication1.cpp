@@ -83,44 +83,6 @@ int searchPos(int x, int* key_arr, int n);
 KeyStatus del(node* r, int x);
 bool search(int key);
 
-// class  vector
-// {
-//     int *arr;
-//     int top;
-//     int capacity;
-
-//     public:
-//     vector(int size = SIZE);
-//     void push_back(string);
-//     int begin();
-//     int end();
-//     void clear();
-//     int size();
-// }
-
-// vector::vector(int size){
-//     arr = new int[size];
-//     capacity = size;
-//     back = -1;
-//     // top = 0
-// }
-
-// vector::begin(){
-//     return arr[0];
-// }
-// vector::end(){
-//     return arr[-1];
-// }
-// vector::push_back(string name){
-//     arr[back+1] = name;
-//     back++;
-// }
-// vector::size(){
-//     return back;
-// }
-// vector::clear(){
-//     delete[] arr;
-// }
 
 class stack
 {
